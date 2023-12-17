@@ -1,4 +1,4 @@
-# note:
+#### note:
 made this repo to proxy between oai and any client
 
 # open-ai-api-client
